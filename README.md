@@ -10,7 +10,7 @@ The SIS model divides the population into two groups: Susceptible individuals (t
 
 - `euler.py`: Python module containing the implementation of  Euler's methods.
 - `sis.py`: Python script containing the implementation of the SIS model and its simulation.
-- 
+
 ## Dependencies
 
 - `numpy`
@@ -45,13 +45,13 @@ python3 sis.py
 
 The simulation produces plots showing the population dynamics of susceptible and infectious individuals over time. These plots provide insights into the spread and control of infectious diseases within a population.
 
+![Population Dynamics](/assets/img/100indv1infectious20days.png)
 
 
 
 ## References
 
 - [Wikipedia - Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
-- [CDC - Introduction to Epidemiology](https://www.cdc.gov/csels/dsepd/ss1978/lesson1/section11.html)
 
 
 ## License
