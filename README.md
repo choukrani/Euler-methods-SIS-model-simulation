@@ -2,6 +2,9 @@
 
 This repository contains Python code to simulate the Susceptible-Infectious-Susceptible (SIS) model, a simple epidemiological model used to study the dynamics of infectious diseases within a population. The simulation is implemented using Euler's numerical methods (Explicit - Implicit - Mid Point)
 
+![SIS](/assets/img/SIS.png)
+
+
 ## Introduction
 
 The SIS model divides the population into two groups: Susceptible individuals (those who can contract the disease) and Infectious individuals (those who are currently infected and can spread the disease). This model does not account for recovered individuals; instead, infectious individuals return to the susceptible population after recovering from the disease.
