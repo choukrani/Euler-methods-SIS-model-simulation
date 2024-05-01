@@ -11,8 +11,8 @@ The SIS model divides the population into two groups: Susceptible individuals (t
 
 ## Contents
 
-- `euler.py`: Python module containing the implementation of  Euler's methods.
-- `sis.py`: Python script containing the implementation of the SIS model and its simulation.
+- `euler.py` Python module containing the implementation of  Euler's methods.
+- `sis.py` Python script containing the implementation of the SIS model and its simulation.
 
 ## Dependencies
 
